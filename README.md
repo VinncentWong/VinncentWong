@@ -19,7 +19,7 @@
 </h1>
 
 <h3>:student: About Me: </h3>
-<p>- I am a undergraduate student from Universitas Brawijaya<p>
+<p>- I am an undergraduate student from Universitas Brawijaya<p>
 <p>- Currently learning about Java, Go, and Typescript for programming language<p>
 
 ---
