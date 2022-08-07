@@ -47,4 +47,4 @@
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VinncentWong&theme=dark&background=000000)
 ###
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=VinncentWong&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=VinncentWong&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
