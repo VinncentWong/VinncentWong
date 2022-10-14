@@ -20,7 +20,7 @@
 
 <h3>:student: About Me: </h3>
 <p>- I am an undergraduate student from Universitas Brawijaya<p>
-<p>- Currently learning about Java, Go, and Dart for programming language<p>
+<p>- Currently learning about Java, and Go for programming language<p>
 
 ---
 ### :fire: My Stats :
