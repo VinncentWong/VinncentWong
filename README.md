@@ -28,4 +28,4 @@
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VinncentWong&theme=dark&background=000000)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinncentWong&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinncentWong)](https://github.com/anuraghazra/github-readme-stats)
